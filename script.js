@@ -15,7 +15,7 @@ const playlist = [
     src: "audio/ambarsariya.mp3"
   },
   {
-    title: "Tu",
+    title: "Tu kabhi Janegi",
     artist: "Sonu Nigam",
     duration: "4:26",
     color: "#47b8e8",
