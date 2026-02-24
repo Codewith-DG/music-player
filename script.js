@@ -30,7 +30,7 @@ const playlist = [
   },
   {
     title: "Rozana",
-    artist: "Arijit Singh",
+    artist: "Shreya Ghoshal",
     duration: "4:34",
     color: "#a8e847",
     src: "audio/rozana.mp3"
